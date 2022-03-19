@@ -10,8 +10,7 @@ I'm Mustafa Can. I am a backend java developer. So far, I have developed project
 
 
 <h3>Connect With Me</h3>
-<img src="https://img.icons8.com/ios-glyphs/344/linkedin.png" height="50px" width="50px"/>
-<img src="https://img.icons8.com/ios/452/domain.png" height="50px" width="50px"/>
+<img src="https://img.icons8.com/ios-glyphs/344/linkedin.png" height="50px" width="50px"/><img src="https://img.icons8.com/ios/452/domain.png" height="50px" width="50px"/>
 
 
 <h4>My Github Stats</h4>
