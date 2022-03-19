@@ -6,7 +6,7 @@ I'm Mustafa Can. I am a backend java developer. So far, I have developed project
 
 Tech I Use
 
-https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png
+<img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" height="25px" width="25px"/>
 
 Connect With Me
 
